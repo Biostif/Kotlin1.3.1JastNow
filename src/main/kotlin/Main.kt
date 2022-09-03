@@ -1,7 +1,8 @@
+const val TIMEISOFF = 60
+const val SEC = 1
+const val MIN = 60
+const val HOUR = 60 * 60
+const val DAY = 24 * 60 * 60
 fun main(args: Array<String>) {
-    println("Hello World!")
 
-    // Try adding program arguments via Run/Debug configuration.
-    // Learn more about running applications: https://www.jetbrains.com/help/idea/running-applications.html.
-    println("Program arguments: ${args.joinToString()}")
 }
